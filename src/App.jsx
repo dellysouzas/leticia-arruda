@@ -270,6 +270,23 @@ function App() {
                 </div>
               </div>
             </div>
+
+            {/* CTA Agende agora mesmo */}
+            <div className="mt-12 max-w-5xl mx-auto">
+              <div className="text-left">
+                <a
+                  href="https://wa.me/5581987284666"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 rounded-lg bg-[#00a858] text-white px-8 py-4 font-semibold shadow-lg shadow-black/10 hover:bg-[#1e6d44] transition-colors hover:shadow-xl hover:shadow-black/15 active:scale-[0.98]"
+                >
+                  Agende agora mesmo
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5">
+                    <path d="M12 2C6.477 2 2 6.02 2 11.006c0 1.74.47 3.37 1.285 4.783L2 22l6.39-1.23A9.94 9.94 0 0 0 12 20.012C17.523 20.012 22 15.99 22 11.006 22 6.02 17.523 2 12 2Zm5.093 14.07c-.214.6-1.255 1.15-1.73 1.18-.474.03-1.09.04-1.758-.11-.402-.09-.92-.3-1.588-.59-2.79-1.2-4.602-4.13-4.742-4.32-.14-.19-1.13-1.5-1.13-2.86 0-1.36.72-2.03.98-2.31.26-.28.57-.35.76-.35.19 0 .38 0 .55.01.18.01.41-.07.64.49.214.6.73 2.07.8 2.22.07.15.11.32.02.51-.09.19-.14.31-.28.48-.14.17-.3.38-.43.51-.14.14-.29.3-.12.59.17.29.75 1.23 1.61 1.99 1.11.98 2.05 1.29 2.34 1.44.29.15.46.13.63-.08.17-.21.72-.84.91-1.12.19-.28.39-.23.64-.14.26.09 1.63.77 1.91.9.28.14.46.21.53.32.07.12.07.69-.15 1.29Z"/>
+                  </svg>
+                </a>
+              </div>
+            </div>
           </div>
         </section>
 

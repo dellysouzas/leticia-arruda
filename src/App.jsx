@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col">
       {/* Header */}
-      <header className="bg-[#00a858] text-white shadow-lg shadow-black/20">
+      <header className="sticky top-0 z-50 bg-[#00a858] text-white shadow-lg shadow-black/20">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img src="/Logos/logocinza.png" alt="Clínica Nova Esperança" className="h-8 w-auto" />

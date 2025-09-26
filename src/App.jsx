@@ -173,7 +173,7 @@ function App() {
               {/* Consultas médicas */}
               <div className="group overflow-hidden rounded-2xl bg-white ring-1 ring-black/5 shadow-lg shadow-black/10 transition-transform duration-200 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-black/15">
                 <div className="relative">
-                  <img src="/Serviços/Clinica%20geral.png" alt="Consultas médicas" className="h-48 md:h-56 w-full object-cover" />
+                  <img src="/servicos/Clinica%20geral.png" alt="Consultas médicas" className="h-48 md:h-56 w-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-black/10 to-transparent" />
                   <h3 className="absolute bottom-3 left-4 right-4 text-white text-xl md:text-2xl font-semibold">
                     Consultas médicas
@@ -189,7 +189,7 @@ function App() {
               {/* Odontologia completa */}
               <div className="group overflow-hidden rounded-2xl bg-white ring-1 ring-black/5 shadow-lg shadow-black/10 transition-transform duration-200 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-black/15">
                 <div className="relative">
-                  <img src="/Serviços/Odontologia.png" alt="Odontologia completa" className="h-48 md:h-56 w-full object-cover" />
+                  <img src="/servicos/Odontologia.png" alt="Odontologia completa" className="h-48 md:h-56 w-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-black/10 to-transparent" />
                   <h3 className="absolute bottom-3 left-4 right-4 text-white text-xl md:text-2xl font-semibold">
                     Odontologia completa
@@ -205,7 +205,7 @@ function App() {
               {/* Exames laboratoriais e de imagem */}
               <div className="group overflow-hidden rounded-2xl bg-white ring-1 ring-black/5 shadow-lg shadow-black/10 transition-transform duration-200 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-black/15">
                 <div className="relative">
-                  <img src="/Serviços/Exames%20laboratoriais.png" alt="Exames laboratoriais e de imagem" className="h-48 md:h-56 w-full object-cover" />
+                  <img src="/servicos/Exames%20laboratoriais.png" alt="Exames laboratoriais e de imagem" className="h-48 md:h-56 w-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-black/10 to-transparent" />
                   <h3 className="absolute bottom-3 left-4 right-4 text-white text-xl md:text-2xl font-semibold">
                     Exames laboratoriais e de imagem
